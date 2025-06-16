@@ -37,10 +37,6 @@ Description: The Random Trip feature suggests a random place to visit, providing
 ![Maps](https://gitlab.cci.drexel.edu/fds24/ci10x-student-teams/60/14/ci-102-lab-60-group-14/-/raw/main/images/maps.png)
 Description: The Maps feature provides location maps for various places in Philadelphia.
 
-### Weather
-![Weather](https://gitlab.cci.drexel.edu/fds24/ci10x-student-teams/60/14/ci-102-lab-60-group-14/-/raw/main/images/weather.png)
-Description: The Weather feature displays current weather updates for Philadelphia.
-
 ### Trivia
 ![Trivia](https://gitlab.cci.drexel.edu/fds24/ci10x-student-teams/60/14/ci-102-lab-60-group-14/-/raw/main/images/trivia.png)
 Description: The Trivia feature offers fun facts and interesting information about Philadelphia.
@@ -92,11 +88,6 @@ Access the "Maps" feature to view location maps for various places in Philadelph
 
 Example: Click on the "Maps" link to see the maps.
 
-**Weather:**
-
-Check the "Weather" section for current weather updates in Philadelphia.
-
-Example: Click on the "Weather" link to view the weather updates.
 
 **Trivia:**
 
